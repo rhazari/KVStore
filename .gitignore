@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+build/
+*.o
+*.out
+*.exe
+test_runner
+kvstore_cli
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
