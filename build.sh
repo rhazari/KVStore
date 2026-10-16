@@ -15,3 +15,4 @@ echo "Running Tests..."
 echo ""
 echo "Build succeeded! Executables are in ./bin/"
 echo "Run interactive REPL with: ./bin/kvstore_cli"
+

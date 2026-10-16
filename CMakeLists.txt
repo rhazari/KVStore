@@ -20,3 +20,4 @@ target_link_libraries(test_kvstore PRIVATE pthread)
 
 enable_testing()
 add_test(NAME KVStoreTests COMMAND test_kvstore)
+

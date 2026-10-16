@@ -216,3 +216,4 @@ The test suite in [`tests/test_kvstore.cpp`](file:///tests/test_kvstore.cpp) inc
 9. `test_raii_transaction_scope`: Auto-rollback on scope exit and exception safety.
 10. `test_keys_and_size_with_transactions`: Correct count and key sets under overlays and tombstones.
 11. `test_thread_safe_store`: Concurrent multi-threaded reads and writes under `ThreadSafeKVStore`.
+

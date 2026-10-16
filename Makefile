@@ -27,3 +27,4 @@ clean:
 	rm -rf $(BIN_DIR) test_runner kvstore_cli
 
 .PHONY: all test run clean
+
